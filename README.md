@@ -54,6 +54,9 @@ When a support ticket is opened, a ticket message is generated with the followin
 * **Closing Time:** The date and time the ticket was closed (usually updated upon closure).
 * **Reason:** The reason for the ticket as stated by the user (if not specified, "Unknown").
 * **Total Ticket Count:** The total number of tickets opened across the system.
+* 
+## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
+[![DiscordBanner](https://invidget.switchblade.xyz/X62tP3fGax)](https://discord.com/invite/X62tP3fGax)
 
 ---
 
@@ -108,3 +111,6 @@ Bir destek talebi açıldığında, aşağıdaki bilgilerle birlikte bir bilet m
 * **Kapanış Zamanı:** Biletin kapatıldığı tarih ve saat (genellikle kapatıldığında güncellenir).
 * **Sebep:** Kullanıcı tarafından belirtilen biletin sebebi (eğer belirtilmemişse "Bilinmiyor").
 * **Toplam Talep Sayısı:** Sistem genelinde açılan toplam bilet sayısı.
+* 
+## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Destek Sunucusu
+[![DiscordBanner](https://invidget.switchblade.xyz/X62tP3fGax)](https://discord.com/invite/X62tP3fGax)
