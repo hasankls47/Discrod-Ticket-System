@@ -1,6 +1,7 @@
-# Discord Destek Sistemi: Kullanım Kılavuzu
+# Discord Support System: User Guide
 
-Bu Discord botu, sunucunuz için gelişmiş ve kullanıcı dostu bir destek sistemi sunar. Kullanıcıların kolayca destek talebi oluşturmasını ve yöneticilerin bu talepleri verimli bir şekilde yönetmesini sağlar.
+This Discord bot provides an advanced and user-friendly support system for your server. It enables users to easily create support tickets and allows administrators to efficiently manage these requests.
+
 ---
 
 ## 🇬🇧 English Explanation
@@ -17,7 +18,6 @@ To view the bot's basic commands and available ticket system options, you can us
 * **Slash Commands:**
     * `/help`: Displays the general help menu.
     * `/talep-sayi`: Shows the total number of tickets.
-
 
 ### 2. Creating a Support Ticket
 
@@ -50,7 +50,7 @@ When a support ticket is opened, a ticket message is generated with the followin
 * **Closing Time:** The date and time the ticket was closed (usually updated upon closure).
 * **Reason:** The reason for the ticket as stated by the user (if not specified, "Unknown").
 * **Total Ticket Count:** The total number of tickets opened across the system.
-  
+
 ---
 
 ## 🇹🇷 Türkçe Anlatım
