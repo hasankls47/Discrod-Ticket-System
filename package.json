@@ -1,0 +1,38 @@
+{
+    "name": "discord-ticket-system",
+    "version": "5.0.0",
+    "description": "Discord 3 Fonksiyonlu Ticket Bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+"keywords": [
+    "discord",
+    "discord-js",
+    "discordbot",
+    "ticketing-system",
+    "discord-tickets",
+    "discord-ticket-bot",
+    "discordticketsystem",
+    "discord-ticket-select-menu",
+    "discord-ticket-transcripts",
+    "different-ticket-discord",
+    "discord-ticket-button",
+    "discord-ticket-modal"
+  ],
+    "author": "klshasan47",
+    "license": "MIT",
+    "dependencies": {
+        "@discordjs/builders": "^1.11.2",
+        "@discordjs/rest": "^2.2.0",
+        "codeworld": "^1.0.6",
+        "discord-html-transcripts": "^3.2.0",
+        "discord.js": "^14.14.1",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^3.3.2",
+        "path": "^0.12.7"
+    },
+    "engines": {
+        "node": "22.x"
+    }
+}
