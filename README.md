@@ -10,6 +10,7 @@ This Discord bot provides an advanced and user-friendly support system for your 
 
 To view the bot's basic commands and available ticket system options, you can use the following commands:
 
+![Help Commands Screenshot](https://fv5-6.files.fm/thumb_show.php?i=uwf4dwp94a&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533)
 * **Prefix Commands:**
     * `.help`: Displays the general help menu.
     * `.button-system`: Provides information about setting up and using the button-based ticket system.
@@ -23,13 +24,14 @@ To view the bot's basic commands and available ticket system options, you can us
 
 The support channel is the main place where users can get help and ask questions. There are primary methods to create a support ticket:
 
+![Button System Screenshot](https://fv5-6.files.fm/thumb_show.php?i=mhyjcqjy8b&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533) ![Select Menu System Screenshot](https://fv5-6.files.fm/thumb_show.php?i=ctze8xp97x&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533) ![Modal Pop-up Screenshot](https://fv5-6.files.fm/thumb_show.php?i=bc83eyqy9m&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533) 
 * **Creating a Ticket via Button:** You can quickly open a ticket by clicking the "Destek Talebi Oluştur" (Create Support Ticket) button in the support channel.
-    * **NOTE:** Opening unnecessary support tickets may result in penalties.
 * **Creating a Ticket via Select Menu:** You can open a ticket by selecting a category related to your issue from the dropdown menu under the heading "Açmak istediğin talep sebebini seç." (Select the reason for the request you want to open).
 * **Creating a Ticket via Modal Pop-up:** When you wish to open a ticket, a pop-up window (modal) titled "Destek Talebi" (Support Request) will appear. In this window, you can create your request by typing the reason for opening the ticket in the "Sebep?" (Reason?) field.
-    * **Important Warning:** This form will be sent to the Klshasan47 application. Please ensure you do not share your passwords or other sensitive information.
 
 ### 3. Setting Up and Managing the Support System
+
+![System Settings Screenshot](https://fv5-6.files.fm/thumb_show.php?i=ec8tmpxhq3&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533)
 
 The bot offers comprehensive settings for administrators to customize the ticket system:
 
@@ -42,6 +44,8 @@ The bot offers comprehensive settings for administrators to customize the ticket
 * **Delete Message:** You can use this button to delete system messages sent by the bot.
 
 ### 4. Open Support Tickets
+
+![Open Ticket Screenshot](https://fv5-6.files.fm/thumb_show.php?i=rzy8ev9p5t&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533)
 
 When a support ticket is opened, a ticket message is generated with the following information:
 
@@ -59,6 +63,7 @@ When a support ticket is opened, a ticket message is generated with the followin
 
 Botun temel komutlarını ve mevcut bilet sistemi seçeneklerini görmek için aşağıdaki komutları kullanabilirsiniz:
 
+![Yardım Komutları Ekran Görüntüsü](https://fv5-6.files.fm/thumb_show.php?i=uwf4dwp94a&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533)
 * **Prefix Komutları:**
     * `.help`: Genel yardım menüsünü gösterir.
     * `.button-system`: Buton bazlı bilet sistemi kurulumu ve kullanımı hakkında bilgi verir.
@@ -72,13 +77,15 @@ Botun temel komutlarını ve mevcut bilet sistemi seçeneklerini görmek için a
 
 Destek kanalı, kullanıcıların yardım alabileceği ve sorularını sorabileceği ana yerdir. Destek talebi oluşturmak için ana yöntemler bulunur:
 
+![Buton Sistemi Ekran Görüntüsü](https://fv5-6.files.fm/thumb_show.php?i=mhyjcqjy8b&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533) ![Seçim Menüsü Sistemi Ekran Görüntüsü](https://fv5-6.files.fm/thumb_show.php?i=ctze8xp97x&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533) ![Modal Açılır Pencere Ekran Görüntüsü](https://fv5-6.files.fm/thumb_show.php?i=bc83eyqy9m&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533) 
 * **Buton ile Talep Oluşturma:** Destek kanalında bulunan "Destek Talebi Oluştur" butonuna tıklayarak hızlıca bir bilet açabilirsiniz.
-    * **NOT:** Gereksiz destek talebi açmak ceza almanıza neden olabilir.
 * **Seçim Menüsü ile Talep Oluşturma:** "Açmak istediğin talep sebebini seç." başlığı altındaki açılır menüden sorununuzla ilgili bir kategori seçerek bilet açabilirsiniz.
 * **Modal (Açılır Pencere) ile Talep Oluşturma:** Bir bilet açmak istediğinizde, "Destek Talebi" başlıklı bir açılır pencere (modal) belirir. Bu pencerede "Sebep?" kısmına bilet açma sebebinizi yazarak talebinizi oluşturabilirsiniz.
-    * **Önemli Uyarı:** Bu form Klshasan47 uygulamasına gönderilecektir. Şifrelerinizi ya da diğer hassas bilgilerinizi paylaşmadığınızdan emin olun.
+
 
 ### 3. Destek Sistemi Kurulumu ve Yönetimi (Setting Up and Managing the Support System)
+
+![Sistem Ayarları Ekran Görüntüsü](https://fv5-6.files.fm/thumb_show.php?i=ec8tmpxhq3&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533) 
 
 Bot, yöneticilerin bilet sistemini özelleştirmesi için kapsamlı ayarlar sunar:
 
@@ -91,6 +98,8 @@ Bot, yöneticilerin bilet sistemini özelleştirmesi için kapsamlı ayarlar sun
 * **Mesajı Sil:** Botun gönderdiği sistem mesajlarını silmek için bu butonu kullanabilirsiniz.
 
 ### 4. Açılan Destek Talepleri (Open Support Tickets)
+
+![Açık Bilet Ekran Görüntüsü](https://fv5-6.files.fm/thumb_show.php?i=rzy8ev9p5t&view&v=1&PHPSESSID=eb54791b870c2fc60dd91a8941fbef8876d59533)
 
 Bir destek talebi açıldığında, aşağıdaki bilgilerle birlikte bir bilet mesajı oluşturulur:
 
